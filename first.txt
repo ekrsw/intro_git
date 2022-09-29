@@ -6,3 +6,4 @@ Gitの練習をしていきます。
 ・first add text
 ・git diff
 ・git のいろいろ
+・git さらにいろいろ
